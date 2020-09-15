@@ -1,1 +1,1 @@
-Fix (started working in Edge browser), new functionality can create multiple GroupBox on one page.
+Switch encryption to new Laavor standardization
